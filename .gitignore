@@ -1,0 +1,22 @@
+# File-system cruft and temporary files
+*.gz
+*.sublime-*
+*.zip
+.*.swp
+._*
+.buildpath
+.DS_Store
+.idea/
+.vscode
+.project
+.swp
+.Trashes
+.vagrant*
+/bolt.log
+/tags
+__*
+php-cs-fixer.phar
+scrutinizer.phar
+composer.phar
+Thumbs.db
+Vagrantfile
